@@ -1,8 +1,14 @@
 #include <stdio.h>
 
+
+//funkcja zwraca kwadrat liczby n
+int kwadrat(int n)
+{
+    return n*n;
+}
+
 int main()
 {
-    int k=1;
     printf("prog w c/n");
     return 0;
 }
